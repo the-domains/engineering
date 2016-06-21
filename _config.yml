@@ -1,0 +1,28 @@
+name: engineering
+favicon: null
+layout_spectrum: 0.13646134524606168
+typography_spectrum: 0.5202456505503505
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8413086158689111
+  lightness: 0.9370582837145776
+  saturation: 0.3780916577670723
+  rhythmicContrast: 0.08123251958750188
+purpose: []
